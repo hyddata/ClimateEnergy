@@ -21,3 +21,8 @@ This repository contains an exploratory analysis investigating relationships bet
 ## Future Improvements
 - ML forecasting
 
+If you use this code or analysis, please cite it as:
+
+Zare, M. (2025). Climate Extremes and Energy Market Vulnerability: Analysis for Qatar. 
+GitHub repository. https://github.com/hyddata/ClimateEnergy
+

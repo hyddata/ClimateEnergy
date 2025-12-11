@@ -8,6 +8,7 @@ This repository contains an exploratory analysis investigating relationships bet
 - Apply bias-correction to CMIP6 variables.
 - Compare climate indicators with oil & gas prices.
 - Perform simple correlations and lagged inspection.
+- This project includes only a simple statistical forecast based on 5-year event frequency trends.
 
 ## Content
 - CMIP6 ingestion via xarray/netCDF.
